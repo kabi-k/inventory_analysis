@@ -22,6 +22,10 @@ Demonstrates:
 
 *Made in Python 3.11*
 
+*required libraries can be found in requirements.txt*
+
+*pip install -r requirements.txt* or *python3.11 -m pip install -r requirements.txt* can be used to install them if needed (it's only numpy, openpyxl, it's only pandas)
+
 **data/raw/inventory_dataset.csv** (original dataset)
 
 **data/raw/cleaned_dataset.csv** (cleaned dataset)
