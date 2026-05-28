@@ -1,0 +1,5 @@
+Region,Total_Records,Avg_Accuracy,Defect_Count,Defect_Rate,Shrink_Events,Avg_Days_of_Inventory,Total_Shrink_Value
+North,22974,46.39,856,3.73,631,33.62,80013.23
+South,22720,45.6,817,3.6,563,33.22,73534.37
+West,22622,46.4,810,3.58,562,33.82,73584.31
+East,22934,45.51,809,3.53,550,33.53,69322.84

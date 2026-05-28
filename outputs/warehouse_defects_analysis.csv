@@ -1,0 +1,6 @@
+Warehouse_ID,Total_Records,Defect_Count,Defect_Rate,Shrink_Events,Avg_Abs_Variance,Avg_Accuracy,Anomaly_Count,Total_Shrink_Value
+WH_5,18250,686,3.76,472,0.52,46.59,458,61468.2
+WH_4,18250,666,3.65,456,0.5,46.51,558,54396.7
+WH_2,18250,667,3.65,466,0.5,47.96,734,66152.37
+WH_3,18250,647,3.55,468,0.5,44.3,504,56990.76
+WH_1,18250,626,3.43,444,0.49,44.51,587,57446.72
