@@ -20,6 +20,8 @@ Demonstrates:
 
 ## Project Structure
 
+*Made in Python 3.11*
+
 **data/raw/inventory_dataset.csv** (original dataset)
 
 **data/raw/cleaned_dataset.csv** (cleaned dataset)
